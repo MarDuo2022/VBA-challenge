@@ -7,7 +7,7 @@ Sub teststock()
     
     Dim NumRows As Integer
     NumRows = 400
-        'ideally numrows = count(number of rows on each sheet)
+        'ideally numrows = COUNT(number of rows on each sheet)
         
     Dim i As Integer
     
